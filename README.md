@@ -109,7 +109,7 @@ require proportionally more propellant.
 
 ```bash
 pip install matplotlib
-python mars_landing_simulation.py
+python mars_landing_simulation_en.py
 ```
 
 Each of the three stages (reference descent, fuel stress test, scenario
