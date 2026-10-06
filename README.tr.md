@@ -112,7 +112,7 @@ olarak daha fazla yakıt gerektirdiğinin bir hatırlatıcısı.
 
 ```bash
 pip install matplotlib
-python mars_inis_simulasyonu.py
+python mars_landing_simulation_tr.py
 ```
 
 Üç aşamanın (referans iniş, yakıt stres testi, senaryo stres testi)
